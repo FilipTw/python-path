@@ -27,7 +27,7 @@
 
 ## 📁 Struktura
 
-\```
+```
 python-path/
 ├── 01-syntax-basics/
 ├── 02-functions/
@@ -37,7 +37,7 @@ python-path/
 │   └── automation-script/
 ├── progress.json
 └── NOTES.md
-\```
+```
 
 ---
 
