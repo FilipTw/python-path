@@ -91,7 +91,7 @@ Ważne pojęcia:
  	Zarządzanie funkcjami (Stos wywołań): kiedy program uruchamia funkcję, dodaje ją na szczyt specjalnej listy 
  	(tzw. stosu). Każda funkcja otrzymuje tam swoją własną, odizolowaną przestrzeń na tymczasowe zmienne. 
  	Gdy skończy zadanie, jest natychmiast usuwana z listy, dzięki czemu jej dane są bezpieczne 
- 	i nie mieszają się zresztą programu.
+ 	i nie mieszają się z resztą programu.
 
 	Ładowanie modułów: Python doczytuje dodatkowe pliki z kodem w locie. 
 	Aby przyspieszyć ten proces w przyszłości, od razu tłumaczy je na szybszy format (pliki .pyc) i zachowuje w pamięci podręcznej. 
