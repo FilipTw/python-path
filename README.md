@@ -13,7 +13,7 @@
 
 | # | Rozdział | Podtematy | Status |
 |---|----------|-----------|--------|
-| 01 | Whetting Your Appetite | - | ⬜ |
+| 01 | Whetting Your Appetite | - | ✅ |
 | 02 | Using the Python Interpreter | Invoking · Interactive Mode · Source Encoding | ⬜ |
 | 03 | An Informal Introduction to Python | Numbers · Text · Lists · First Steps | ⬜ |
 | 04 | More Control Flow Tools | if · for · range · break · match · Functions · Lambda | ⬜ |
