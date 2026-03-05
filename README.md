@@ -8,22 +8,6 @@
 
 ---
 
-## 📋 Topics
-
-- [ ] Variables & Data Types
-- [ ] Loops & Conditionals
-- [ ] Functions
-- [ ] OOP - Classes
-- [ ] OOP - Inheritance
-- [ ] List Comprehensions
-- [ ] Decorators
-- [ ] File I/O
-- [ ] Error Handling
-- [ ] Modules & Packages
-- [ ] Virtual Environments
-- [ ] Project: Automation Script
-
----
 
 ## 📁 Struktura
 
@@ -38,7 +22,11 @@ python-path/
 
 ## 📝 Notatki
 
-Wszystkie przemyślenia i skróty myślowe w [NOTES.md](./NOTES.md)
+Wszystkie przemyślenia i skróty myślowe z każdych zagadnień w [NOTES.md](./NOTES.md)
+
+---
+
+# Wiedza Teoretyczna Rozdziału Whetting Your Appetite
 
 ---
 
