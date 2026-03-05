@@ -2,17 +2,17 @@
   "total": 12,
   "completed": 0,
   "topics": [
-    { "name": "Variables & Data Types", "done": false },
-    { "name": "Loops & Conditionals", "done": false },
-    { "name": "Functions", "done": false },
-    { "name": "OOP - Classes", "done": false },
-    { "name": "OOP - Inheritance", "done": false },
-    { "name": "List Comprehensions", "done": false },
-    { "name": "Decorators", "done": false },
-    { "name": "File I/O", "done": false },
-    { "name": "Error Handling", "done": false },
-    { "name": "Modules & Packages", "done": false },
-    { "name": "Virtual Environments", "done": false },
-    { "name": "Project: Automation Script", "done": false }
+    { "name": "Whetting Your Appetite", "done": false },
+    { "name": "Using the Python Interpreter", "done": false },
+    { "name": "An Informal Introduction to Python", "done": false },
+    { "name": "More Control Flow Tools", "done": false },
+    { "name": "Data Structures", "done": false },
+    { "name": "Modules", "done": false },
+    { "name": "Input and Output", "done": false },
+    { "name": "Errors and Exceptions", "done": false },
+    { "name": "Classes", "done": false },
+    { "name": "Brief Tour of the Standard Library", "done": false },
+    { "name": "Brief Tour of the Standard Library Part II", "done": false },
+    { "name": "Virtual Environments and Packages", "done": false }
   ]
 }
