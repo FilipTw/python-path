@@ -82,9 +82,8 @@ Ciekawostki:
 
  Autorzy:
 
- ```
- Swoją drogą, nazwa języka pochodzi od programu BBC „Latający Cyrk Monty Pythona” i nie ma nic wspólnego z gadami. Tworzenie odniesień do skeczy Monty Pythona w dokumentacji jest nie tylko dozwolne, wręcz do tego zachęcamy!
- ```
+" Swoją drogą, nazwa języka pochodzi od programu BBC „Latający Cyrk Monty Pythona” i nie ma nic wspólnego z gadami. Tworzenie odniesień do skeczy Monty Pythona w dokumentacji jest nie tylko dozwolne, wręcz do tego zachęcamy!"
+
 
 ```
 ---
