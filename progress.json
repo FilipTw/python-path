@@ -1,6 +1,5 @@
 {
   "total": 12,
-  "completed": 0,
   "topics": [
     { "name": "Whetting Your Appetite", "done": true },
     { "name": "Using the Python Interpreter", "done": false },
