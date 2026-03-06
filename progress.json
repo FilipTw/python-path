@@ -2,7 +2,7 @@
   "total": 12,
   "topics": [
     { "name": "Whetting Your Appetite", "done": true },
-    { "name": "Using the Python Interpreter", "done": false },
+    { "name": "Using the Python Interpreter", "done": true },
     { "name": "An Informal Introduction to Python", "done": false },
     { "name": "More Control Flow Tools", "done": false },
     { "name": "Data Structures", "done": false },
