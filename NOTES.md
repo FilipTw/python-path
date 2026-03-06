@@ -86,6 +86,8 @@ Ciekawostki:
 
 
 ```
+[![Obejrzyj demo](https://img.youtube.com/vi/EcgH1QPSiS4/0.jpg)](https://www.youtube.com/watch?v=EcgH1QPSiS4)
+
 ---
 
 ## Functions & Scope
