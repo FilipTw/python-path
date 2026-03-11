@@ -3,7 +3,7 @@
   "topics": [
     { "name": "Whetting Your Appetite", "done": true },
     { "name": "Using the Python Interpreter", "done": true },
-    { "name": "An Informal Introduction to Python", "done": false },
+    { "name": "An Informal Introduction to Python", "done": true },
     { "name": "More Control Flow Tools", "done": false },
     { "name": "Data Structures", "done": false },
     { "name": "Modules", "done": false },
