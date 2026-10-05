@@ -18,7 +18,7 @@
 | 03 | An Informal Introduction to Python | Numbers · Text · Lists · First Steps | ✅ |
 | 04 | More Control Flow Tools | if · for · range · break · match · Functions · Lambda | ✅ |
 | 05 | Data Structures | Lists · Tuples · Sets · Dicts · Comprehensions | ✅ |
-| 06 | Modules | Importing · Search Path · Packages | ⬜ |
+| 06 | Modules | Importing · Search Path · Packages | ✅ |
 | 07 | Input and Output | String Formatting · File I/O · JSON | ⬜ |
 | 08 | Errors and Exceptions | Syntax · Handling · Raising · Chaining | ⬜ |
 | 09 | Classes | Scopes · Inheritance · Iterators · Generators | ⬜ |
