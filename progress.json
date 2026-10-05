@@ -6,7 +6,7 @@
     { "name": "An Informal Introduction to Python", "done": true },
     { "name": "More Control Flow Tools", "done": true },
     { "name": "Data Structures", "done": true },
-    { "name": "Modules", "done": false },
+    { "name": "Modules", "done": true },
     { "name": "Input and Output", "done": false },
     { "name": "Errors and Exceptions", "done": false },
     { "name": "Classes", "done": false },
