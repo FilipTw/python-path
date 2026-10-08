@@ -23,7 +23,7 @@ python-path/
 
 ## 📝 Notatki
 
-Wszystkie przemyślenia i skróty myślowe z każdych zagadnień w [NOTES.md](./NOTES.md)
+Wszystkie przemyślenia i skróty myślowe z każdych zagadnień w [NOTES.md](../NOTES.md)
 
 ---
 
