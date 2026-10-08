@@ -7,7 +7,7 @@
     { "name": "More Control Flow Tools", "done": true },
     { "name": "Data Structures", "done": true },
     { "name": "Modules", "done": true },
-    { "name": "Input and Output", "done": false },
+    { "name": "Input and Output", "done": true },
     { "name": "Errors and Exceptions", "done": false },
     { "name": "Classes", "done": false },
     { "name": "Brief Tour of the Standard Library", "done": false },
