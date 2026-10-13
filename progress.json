@@ -8,7 +8,7 @@
     { "name": "Data Structures", "done": true },
     { "name": "Modules", "done": true },
     { "name": "Input and Output", "done": true },
-    { "name": "Errors and Exceptions", "done": false },
+    { "name": "Errors and Exceptions", "done": true },
     { "name": "Classes", "done": false },
     { "name": "Brief Tour of the Standard Library", "done": false },
     { "name": "Brief Tour of the Standard Library Part II", "done": false },
