@@ -20,7 +20,7 @@
 | 05 | Data Structures | Lists · Tuples · Sets · Dicts · Comprehensions | ✅ |
 | 06 | Modules | Importing · Search Path · Packages | ✅ |
 | 07 | Input and Output | String Formatting · File I/O · JSON | ✅ |
-| 08 | Errors and Exceptions | Syntax · Handling · Raising · Chaining | ⬜ |
+| 08 | Errors and Exceptions | Syntax · Handling · Raising · Chaining | ✅ |
 | 09 | Classes | Scopes · Inheritance · Iterators · Generators | ⬜ |
 | 10 | Brief Tour of Standard Library | os · re · math · datetime · json | ⬜ |
 | 11 | Brief Tour of Standard Library II | Formatting · Threading · Logging · Decimal | ⬜ |
